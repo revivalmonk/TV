@@ -1,0 +1,55 @@
+#EXTM3U
+
+# ===== 揭阳频道 =====
+#EXTINF:-1 group-title="揭阳频道",揭阳综合
+http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8
+#EXTINF:-1 group-title="揭阳频道",揭阳生活
+http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
+#EXTINF:-1 group-title="揭阳频道",揭阳综合(备用)
+http://113.64.147.61:808/hls/17/index.m3u8
+#EXTINF:-1 group-title="揭阳频道",揭阳公共(备用)
+http://113.64.147.61:808/hls/1006/index.m3u8
+
+# ===== 凤凰卫视 =====
+#EXTINF:-1 group-title="凤凰卫视",凤凰中文
+http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+#EXTINF:-1 group-title="凤凰卫视",凤凰资讯
+http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+
+# ===== 央视频道 =====
+#EXTINF:-1 group-title="央视频道",CCTV-1 综合
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-1 综合(备用)
+http://173.208.234.146/live/cctv1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5 体育
+http://140.207.241.3:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+ 体育赛事
+http://140.207.241.3:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-6 电影
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-6 电影(备用)
+http://140.207.241.3:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
+
+# ===== 卫视频道 =====
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视(备用)
+http://39.134.66.110/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 group-title="卫视频道",浙江卫视(备用)
+http://121.30.137.26:8081/hls/26/index.m3u8
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://113.26.202.52:1299/tsfile/live/0107_1.m3u8
+#EXTINF:-1 group-title="卫视频道",东方卫视(备用)
+http://140.207.241.3:8080/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://121.24.98.226:8090/hls/38/index.m3u8
+#EXTINF:-1 group-title="卫视频道",江苏卫视(备用)
+http://140.207.241.3:8080/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://140.207.241.3:8080/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://39.134.66.66/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
